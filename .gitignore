@@ -130,4 +130,5 @@ dmypy.json
 
 .gitignore
 data/
+models/
 runs/
